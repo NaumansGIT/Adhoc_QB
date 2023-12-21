@@ -1,0 +1,11 @@
+Install Library:
+	pip install spacy
+
+-------------------------------------------------
+
+Download Model:
+	python -m spacy download en_core_web_lg
+
+-------------------------------------------------
+
+
